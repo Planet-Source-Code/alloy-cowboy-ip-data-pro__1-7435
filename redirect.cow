@@ -1,0 +1,4 @@
+<b>ERROR: You will now be redirected to our parent site.</b>
+<script Language="VBScript">
+location.href="http://www.tripod.com"
+</script>

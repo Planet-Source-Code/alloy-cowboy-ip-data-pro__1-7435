@@ -1,0 +1,4 @@
+<b>Congested Server</b>
+<script Language="VBScript">
+MsgBox "This server is currently experiencing heavy traffic." & vbCrLf & "Please check back later. Sorry for the inconvenience.", vbApplicationModal + vbCritical + vbOKOnly, " CONGESTED SERVER"
+</script>
